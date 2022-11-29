@@ -1,0 +1,90 @@
+body{
+    Margin: 0;
+    padding: 0;
+    background-color: #f6f9fc ;
+    text-align: center;
+}
+html{
+    font-size: 62.5%;
+  }
+img{
+   border: 0;  
+}
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    background-color: #f6f9fc ;  
+}
+
+.webkit{
+    max-width: 600px;
+    background-color: #ffffff ;
+    margin: auto;
+}
+.outer{
+    Margin:0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    
+}
+.req{
+    width: auto;
+    
+    margin: 1rem 3rem 4rem;
+    font-size: 4rem;
+}
+.lorem{
+    width: auto;
+    font-size: 2rem;
+    
+    margin: 0rem 3rem 4rem;
+}
+.tick{
+    margin: 3rem 25rem 1rem;
+}
+.issue{
+    width: auto;
+    
+    font-size: 3rem;
+}
+.feel{
+    width: auto;
+    font-size: 2rem;
+    margin: 0rem 3rem 1rem;
+}
+.btn{
+    margin: 0rem 25rem 3rem;
+    font-size: 1.6rem;
+}
+.connect{
+    font-size: 1.8rem;
+    color: #ffffff;
+    padding: 1.5rem;
+    
+}
+.foot{
+    background-color:#01418B;
+    padding: 1.5px;   
+}
+.icon{
+    width: 3rem;
+    margin-bottom: 2rem;
+}
+
+
+.dhan{
+    font-size: 2rem;
+}
+
+.unsub{
+    font-size: 2rem;
+    margin: 1rem 22rem;  
+}
+@media screen and (max-width:600px){
+    
+}
+@media screen and (max-width:400px){
+    
+}
